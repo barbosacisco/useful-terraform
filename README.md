@@ -38,3 +38,5 @@ This setup is meant to be simple, practical, and ready for real-world use.
 ## Notes
 
 This is a growing project and will continue to evolve as new ideas and improvements are added.
+
+-
